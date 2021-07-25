@@ -8,12 +8,13 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | | | 
-| Week 2 Status Report | | |
-| Week 3 Status Report | | |
-| Week 4 Status Report | | |
-| Week 5 Status Report | | |
-| Week 6 Status Report | | |
+| Week 1 Status Report | Familiarization and Introduction to Project Team  | Week 1 | 
+| Week 2 Status Report | Understand Project basics | Week 2 |
+| Week 3 Status Report | Project Setup | Week 3 |
+| Week 4 Status Report | Project Setup | Week 4 |
+| Week 5 Status Report | Lecture on how Polycephaly works  | Week 5|
+|                      | Project Setup and Understanding of how Polycephaly works | |
+| Week 6 Status Report | Polycephaly build on Jenkins | Week 6 |
 | Week 7 Status Report | | |
 | Week 8 Status Report | | |
 | Week 9 Status Report | | |
